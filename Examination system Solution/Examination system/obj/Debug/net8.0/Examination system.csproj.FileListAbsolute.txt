@@ -1,0 +1,14 @@
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\Examination system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\Examination system.AssemblyInfoInputs.cache
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\Examination system.AssemblyInfo.cs
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\Examination system.csproj.CoreCompileInputs.cache
+C:\Route\C#\Examination system Solution\Examination system\bin\Debug\net8.0\Examination system.exe
+C:\Route\C#\Examination system Solution\Examination system\bin\Debug\net8.0\Examination system.deps.json
+C:\Route\C#\Examination system Solution\Examination system\bin\Debug\net8.0\Examination system.runtimeconfig.json
+C:\Route\C#\Examination system Solution\Examination system\bin\Debug\net8.0\Examination system.dll
+C:\Route\C#\Examination system Solution\Examination system\bin\Debug\net8.0\Examination system.pdb
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\Examination system.dll
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\refint\Examination system.dll
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\Examination system.pdb
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\Examination system.genruntimeconfig.cache
+C:\Route\C#\Examination system Solution\Examination system\obj\Debug\net8.0\ref\Examination system.dll
